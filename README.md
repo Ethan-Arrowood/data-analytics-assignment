@@ -12,3 +12,4 @@ In this assignment, you will need to apply data analytics, using the tools intro
 
 ### Useful links:
 - https://pandas.pydata.org/pandas-docs/stable/api.html#top-level-missing-data
+- https://medium.com/tensorist/classifying-yelp-reviews-using-nltk-and-scikit-learn-c58e71e962d9
